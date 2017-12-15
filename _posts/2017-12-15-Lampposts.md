@@ -2,7 +2,7 @@
 published: true
 orig_date: 2017-12-03 01:01:16 +0600
 date: 2017-12-15 22:47:46 +0600
-title: "Lampposts"
+title: "ল্যাম্পপোস্ট"
 location: "বাড্ডা, ঢাকা"
 layout: post
 tags: ["দিনলিপি", "হিজিবিজি"]
