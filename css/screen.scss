@@ -859,7 +859,11 @@ table {
 }
 
 .archive-item {
-    margin-left: 5px;
+    margin: 5px;
+
+    h4 {
+        margin: 0px;
+    }
 }
 
 .post-tags {

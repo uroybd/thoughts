@@ -12,15 +12,15 @@ $(window).scroll(function() {
  });
 
 function fancyFootnote(element) {
-    notenum = 0;
+    var notenum = 0;
     $(element).each(function(){
         $(this).find(".footnotes").find("[id^='fn:']").each(function() {
             $(this).find(".reversefootnote").each(function () {
                 $(this).remove();
             });
             var note = document.createElement("div");
-            did = $(this).attr("id").split(":")[1];
-            notename = "fnote" + "-" + notenum + "-" + did;
+            var did = $(this).attr("id").split(":")[1];
+            var notename = "fnote" + "-" + notenum + "-" + did;
             note.id = notename;
             note.className = "fnote";
             note.innerHTML = '<div class="note-wrapper">' + $(this).html() + '</div>';
@@ -29,7 +29,7 @@ function fancyFootnote(element) {
         });
         
         $(this).find("[id^='fnref:']").each(function(){
-            fid = "fnote" + ":" + notenum + "-" + $(this).attr('id').split(":")[1];
+            var fid = "fnote" + ":" + notenum + "-" + $(this).attr('id').split(":")[1];
             $(this).attr('id', fid);
             $(this).html('<i class="fa fa-asterisk"></i>');
             $(this).click(function(){
