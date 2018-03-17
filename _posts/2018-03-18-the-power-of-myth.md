@@ -8,7 +8,7 @@ location: "বাড্ডা, ঢাকা"
 fimage: "https://images.gr-assets.com/books/1327878742l/35519.jpg"
 excerpt_separator: <!--more-->
 ---
-![The Power of Myth]({{page.fimage}}) The Power of Myth<sup>[[গুডরিডস্](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)]</sup> বইটি বস্তুত বিল ময়ার্স নামক একজন জনপ্রিয় সাংবাদিকের কাছে জোসেফ ক্যাম্পবেলের সাক্ষাৎকারের লিখিত রূপ বলা চলে। বিল ময়ার্স আমাদের দেশের সমকালীন সাংবাদিকদের মত নন তা আমি বইটি পড়ে বুঝতে পেরেছি। যথেষ্ট জ্ঞানী একজন মানুষ। অপরপক্ষে জোসেফ ক্যাম্পবেল অ্যাকাডেমিশিয়ান। জুটিটা ভালো ছিল।
+![The Power of Myth]({{page.fimage}}) The Power of Myth<sup>[[গুডরিডস্](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)]</sup> বইটি বস্তুত [বিল ময়ার্স](https://en.wikipedia.org/wiki/Bill_Moyers) নামক একজন জনপ্রিয় সাংবাদিকের কাছে [জোসেফ ক্যাম্পবেলের](https://www.goodreads.com/author/show/20105.Joseph_Campbell) সাক্ষাৎকারের লিখিত রূপ বলা চলে। বিল ময়ার্স আমাদের দেশের সমকালীন সাংবাদিকদের মত নন তা আমি বইটি পড়ে বুঝতে পেরেছি। যথেষ্ট জ্ঞানী একজন মানুষ। অপরপক্ষে জোসেফ ক্যাম্পবেল অ্যাকাডেমিশিয়ান। জুটিটা ভালো ছিল।
 <--more-->
 ### ক্যাম্পবেল কাহন
 
