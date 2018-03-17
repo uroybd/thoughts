@@ -3,7 +3,7 @@ published: true
 date: 2017-10-14 20:12:24 +0600
 title: "প্যারালাল ওয়ার্ল্ডস্: মিশিও কাকু"
 layout: post
-tags: ["গ্রন্থসমালোচনা", "গদ্য"]
+tags: ["পাঠপ্রতিক্রিয়া"]
 comments: true
 excerpt_separator: <!--more-->
 ---

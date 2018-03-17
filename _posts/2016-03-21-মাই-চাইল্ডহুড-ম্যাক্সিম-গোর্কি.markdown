@@ -5,7 +5,7 @@ layout: post
 title: "মাই চাইল্ডহুড : ম্যাক্সিম গোর্কি"
 comments: true
 published: true
-tags: ["গ্রন্থসমালোচনা"]
+tags: ["পাঠপ্রতিক্রিয়া"]
 fimage: https://d.gr-assets.com/books/1431264564l/163620.jpg
 excerpt_separator: <!--more-->
 ---

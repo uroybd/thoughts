@@ -5,7 +5,7 @@ layout: post
 title: "বানোয়াট গল্প : আনোয়ার সাদাত শিমুল"
 comments: true
 published: true
-tags: ["গ্রন্থসমালোচনা","বাঙলা সাহিত্য"]
+tags: ["পাঠপ্রতিক্রিয়া","বাঙলা সাহিত্য"]
 fimage: "https://eboipotro.github.io/images/বানোয়াট-গল্প-ছোটগল্প-আনোয়ার-সাদাত-শিমুল.jpeg"
 excerpt_separator: <!--more-->
 ---

@@ -3,7 +3,7 @@ published: true
 date: 2016-06-03 19:49:13 +0600
 title: "মিডনাইট'স চিল্ড্রেন: সালমান রুশদি"
 layout: post
-tags: ["গ্রন্থসমালোচনা"]
+tags: ["পাঠপ্রতিক্রিয়া"]
 comments: true
 fimage: https://d.gr-assets.com/books/1371063511l/14836.jpg
 excerpt_separator: <!--more-->

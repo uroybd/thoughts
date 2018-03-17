@@ -5,7 +5,7 @@ layout: post
 title: "কাঠের সেনাপতি : তারেক নূরুল হাসান"
 comments: true
 published: true
-tags: ["গ্রন্থসমালোচনা","বাঙলা সাহিত্য"]
+tags: ["পাঠপ্রতিক্রিয়া","বাঙলা সাহিত্য"]
 fimage: https://d.gr-assets.com/books/1440343571l/21689700.jpg
 excerpt_separator: <!--more-->
 ---

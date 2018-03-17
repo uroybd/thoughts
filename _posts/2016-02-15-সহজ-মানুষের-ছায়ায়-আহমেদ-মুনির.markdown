@@ -4,7 +4,7 @@ date: 2016-02-15 14:56:00 +0600
 layout: post
 title: "সহজ মানুষের ছায়ায় - আহমেদ মুনির"
 comments: true
-tags: ["গ্রন্থসমালোচনা"]
+tags: ["পাঠপ্রতিক্রিয়া"]
 fimage: "https://uroybd.github.io/images/sohoj-manusher-chayay.jpg"
 excerpt_separator: <!--more-->
 ---

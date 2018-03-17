@@ -4,7 +4,7 @@ date: 2016-06-11 1:37:44 +0600
 published: true
 layout: post
 tags:
-- গ্রন্থসমালোচনা
+- পাঠপ্রতিক্রিয়া
 comments: true
 fimage: https://d.gr-assets.com/books/1465317941l/25568846.jpg
 excerpt_separator: <!--more-->
