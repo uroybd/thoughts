@@ -1,13 +1,14 @@
 ---
-published: true
-date: 2016-02-15 14:56:00 +0600
+title: সহজ মানুষের ছায়ায় - আহমেদ মুনির
+date: 2016-02-15 08:56:00 Z
+tags:
+- পাঠপ্রতিক্রিয়া
 layout: post
-title: "সহজ মানুষের ছায়ায় - আহমেদ মুনির"
 comments: true
-tags: ["পাঠপ্রতিক্রিয়া"]
-fimage: "https://uroybd.github.io/images/sohoj-manusher-chayay.jpg"
-excerpt_separator: <!--more-->
+fimage: https://uroybd.github.io/images/sohoj-manusher-chayay.jpg
+excerpt_separator: "<!--more-->"
 ---
+
 ![সহজ মানুষের ছায়ায়]({{page.fimage}}) বইটি ছোট, অল্পকিছু কবিতা আছে। বেঙ্গলের ই-বইতে পেলাম।
 
 আমি ঢাকার ইনটেলেকচুয়াল সমাজের প্রতি খুব একটা উচ্চ ধারণা পোষণ করিনা। এখানে ইনডিভিজুয়ালি ভালো কিছু মানুষ আছেন, সংখ্যায় তারা নগণ্য। অধিকাংশই ফ্রড। আর কবি নামক ফ্রড সবচেয়ে বেশি। বোধহয় সহজ বলে। হয়ত মূর্খ এবং ভালো কবি এমন কম্বিনেশন বিরল নয় বলেই মূর্খরাও চেষ্টা করে।

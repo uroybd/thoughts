@@ -1,15 +1,15 @@
 ---
-published: true
-date: 2015-09-12 19:20:22 +0600
-title: "বালিকা সংকলন"
-layout: post
+title: বালিকা সংকলন
+date: 2015-09-12 13:20:22 Z
 tags:
 - প্রেম
 - কবিতা
 - লেখালেখি
+layout: post
 comments: true
 excerptify: true
 ---
+
 বালিকা তোমায় একটি পলক দেখা-
 হাজার জন্ম অনিমেষ কেটে যাবে
 <!--more-->

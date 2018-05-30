@@ -1,14 +1,15 @@
 ---
-published: true
-orig_date: 2016-12-19 22:45:29 +0600
-location: "বয়রা, খুলনা"
-date: 2016-12-21 13:18:29 +0600
-title: "কবি"
+title: কবি
+date: 2016-12-21 07:18:29 Z
+tags:
+- ছোটগল্প
+orig_date: 2016-12-19 16:45:29 Z
+location: বয়রা, খুলনা
 layout: post
-tags: ["ছোটগল্প"]
 comments: true
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
+
 ## ১ ##
 
 রফিক লিখতে বসলেন। তিনি বড় কবি হবেন একদিন। জীবনানন্দের মত বড় কবি।

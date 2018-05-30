@@ -1,14 +1,14 @@
 ---
-published: true
-date: 2015-09-11 20:47:22 +0600
-title: "আছি"
-layout: post
+title: আছি
+date: 2015-09-11 14:47:22 Z
 tags:
 - কবিতা
 - লেখালেখি
 - ডুব
+layout: post
 comments: true
 ---
+
 আমি আছি,
 জলধির বুকে রোদ ক্রমশ ঘনিয়ে তোলে মেঘের ফসল
 তারমাঝে আছি।

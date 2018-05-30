@@ -1,14 +1,14 @@
 ---
-published: true
-date: 2015-09-12 22:00:00 +0600
-title: "ক্লান্তি"
-layout: post
+title: ক্লান্তি
+date: 2015-09-12 16:00:00 Z
 tags:
 - প্রেম
 - কবিতা
 - লেখালেখি
+layout: post
 comments: true
 ---
+
 ঝরে পড়।
 মুঠো মুঠো বালি যেন
 ক্লান্তিতে ভেঙে ভাঁজ,
